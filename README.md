@@ -21,13 +21,6 @@ I am a passionate **Computer Engineering Student** at Rizvi College of Engineeri
 
 ---
 
-### 📝 Recent Publications
-*   *IoT-Enabled UAV for Real-time Atmospheric Analysis and Predictive Weather Modeling* (IJSREM, 2026)
-*   *Smart Lock: IoT-Enabled Access Control System* (IJRAR, 2025)
-*   *Skill-Sculptor* (IJRAR, 2025)
-
----
-
 ### 📫 How to Reach Me
 *   **Email:** [hussain2006.shaikh@gmail.com](mailto:hussain2006.shaikh@gmail.com)
 *   **Location:** Mumbai, India 📍
