@@ -1,4 +1,4 @@
-# Hi there, I'm Mohammed Hussain Feroz Shaikh! 👋
+# Hi there, I'm Mohammed Hussain Feroz Shaikh!  👋
 
 ### 🚀 Who Am I?
 I am a passionate **Computer Engineering Student** at Rizvi College of Engineering (University of Mumbai) with a deep interest in software development, core computer science, and intelligence systems. I enjoy building things from the ground up—whether it's custom development tools or full-stack web architectures.
