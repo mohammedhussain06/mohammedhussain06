@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--# Hi there, I'm Mohammed Hussain Feroz Shaikh! 👋
+# Hi there, I'm Mohammed Hussain Feroz Shaikh! 👋
 
 ### 🚀 Who Am I?
 I am a passionate **Computer Engineering Student** at Rizvi College of Engineering (University of Mumbai) with a deep interest in software development, core computer science, and intelligence systems. I enjoy building things from the ground up—whether it's custom development tools or full-stack web architectures.
@@ -39,6 +37,4 @@ I am a passionate **Computer Engineering Student** at Rizvi College of Engineeri
 
 ### 📫 How to Reach Me
 *   **Email:** [hussain2006.shaikh@gmail.com](mailto:hussain2006.shaikh@gmail.com)
-*   **LinkedIn:** [https://www.linkedin.com/in/mohammed-hussain-shaikh/]
 *   **Location:** Mumbai, India 📍
-
