@@ -9,13 +9,6 @@ I am a passionate **Computer Engineering Student** at Rizvi College of Engineeri
 
 ---
 
-### 🛠️ What I'm Currently Working On
-*   **[H Script](https://github.com/)** – Building a custom-interpreted programming language complete with a tokenizing lexer, AST parser, and custom execution engine.
-*   **[Skill-Sculptor](https://github.com/)** – Developing an AI-driven, MERN-based EdTech platform that generates personalized learning paths and gamified flashcards.
-*   **[Zerodha Clone](https://github.com/)** – Polishing a full-stack web application with a live-mock trading dashboard and user authentication.
-
----
-
 ### 🧰 Tools & Technologies I Use
 
 | Category | Technologies |
