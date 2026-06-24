@@ -23,4 +23,5 @@ I am a passionate **Computer Engineering Student** at Rizvi College of Engineeri
 
 ### 📫 How to Reach Me
 *   **Email:** [hussain2006.shaikh@gmail.com](mailto:hussain2006.shaikh@gmail.com)
+*   **Linkedin:** https://www.linkedin.com/in/mohammed-hussain-shaikh/
 *   **Location:** Mumbai, India 📍
