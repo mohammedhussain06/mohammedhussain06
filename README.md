@@ -14,10 +14,10 @@ I am a passionate **Computer Engineering Student** at Rizvi College of Engineeri
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | Python, Java, C++, C, JavaScript |
-| **Web & Backend** | React.js, Node.js, Express.js, Flask, HTML, CSS, JavaScript, Restful API |
-| **Databases** | MongoDB, SQL, Pinecone, Chromadb |
+| **Web & Backend** | React.js, Node.js, Express.js, Flask, HTML, CSS, JavaScript, Restful API, FastAPI |
+| **Databases** | MongoDB, SQL, PostGreSQL Pinecone, Chromadb |
 | **AI / ML / NLP** | PyTorch, TensorFlow, Langchain, Hugging Face, Agentic AI (LangGraph, Agno) |
-| **DevOps & Tools** | Git, GitHub, AWS (EC2) |
+| **DevOps & Tools** | Git, GitHub, AWS (EC2), Docker |
 
 ---
 
