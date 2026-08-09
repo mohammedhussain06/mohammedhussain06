@@ -4,7 +4,7 @@
 I am a passionate **Computer Engineering Student** at Rizvi College of Engineering (University of Mumbai) with a deep interest in software development, core computer science, and intelligence systems. I enjoy building things from the ground up—whether it's custom development tools or full-stack web architectures.
 
 - 🎓 Pursuing a B.E. in Computer Engineering (2023 – Present)
-- 💡 Passionate about Automata Theory, Language Design, Web Technologies, and Agentic AI.
+- 💡 Passionate about AIML, LLMs, Language Design, Web Technologies, and Agentic AI.
 - 🏆 Hackathon enthusiast and National Science Day 1st prize winner.
 
 ---
