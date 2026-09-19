@@ -41,27 +41,6 @@ A custom interpreted programming language built from scratch with a lexer, parse
 
 **Tech:** JavaScript, Compiler Design, Lexer/Parser Architecture
 
-### 📈 Zerodha Clone
-
-A full-stack trading web application with authentication, portfolio management, REST APIs, and simulated real-time data.
-
-**Tech:** React, Node.js, Express.js, MongoDB
-
-### 🏠 Airbnb Clone
-
-A full-stack web application inspired by Airbnb's listing and booking experience.
-
-**Tech:** JavaScript, Node.js, Express.js, MongoDB
-
----
-
-## 🏆 Achievements
-
-- 🥇 **1st Prize — National Science Day** for Accident Prevention using IR sensor detection technology
-- 🏅 **Special Mention Award — HackVerse 1.0 Hackathon** in the EdTech category
-- 🚀 Recognized among top participants at a **24-Hour Hackathon**
-- 📊 **Top 5 — Analytrix'26 Datathon**
-
 ---
 
 ## 📚 Currently Learning
