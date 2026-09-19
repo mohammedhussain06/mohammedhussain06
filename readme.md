@@ -25,20 +25,6 @@ I enjoy building practical systems around **RAG, Agentic AI, NLP, and intelligen
 | **DevOps & Cloud** | Git, GitHub, Docker, CI/CD, AWS |
 | **Core CS** | Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks |
 
----
-
-## 🚀 Featured Projects
-
-### 🧠 Skill-Sculptor
-
-An AI-driven EdTech platform focused on personalized learning paths and adaptive learning experiences.
-
-**Tech:** MERN Stack, NLP, LLMs, Reinforcement Learning
-
-### ⚙️ H-Script
-
-A custom interpreted programming language built from scratch with a lexer, parser, AST, and execution engine.
-
 **Tech:** JavaScript, Compiler Design, Lexer/Parser Architecture
 
 ---
