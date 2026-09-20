@@ -8,6 +8,7 @@ I enjoy building practical systems around **RAG, Agentic AI, NLP, and intelligen
 - 🤖 Interested in **AI/ML, LLMs, RAG, Agentic AI, and Reinforcement Learning**
 - 💻 Building **full-stack applications and AI-powered systems**
 - 🚀 Focused on learning, building, and shipping real-world projects
+- Solved 200+ problems on LeetCode 
 
 ---
 
