@@ -43,7 +43,7 @@ I enjoy building practical systems around **RAG, Agentic AI, NLP, and intelligen
 
 ## 📫 How to Reach Me
 
-- 💼 **LinkedIn:** [Mohammed Hussain Shaikh](https://www.linkedin.com/in/mohammed-hussain-shaikh/)
+- 💼 **LinkedIn:** [Mohammed Hussain Shaikh](https://www.linkedin.com/in/hussain20/)
 - 🐙 **GitHub:** [mohammedhussain06](https://github.com/mohammedhussain06)
 - 📧 **Email:** hussain2006.shaikh@gmail.com
 - 📍 **Location:** Mumbai, India 🇮🇳
